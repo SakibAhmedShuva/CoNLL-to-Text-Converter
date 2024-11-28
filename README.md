@@ -1,6 +1,6 @@
 # CoNLL-to-Text-Converter
 
-Convert your CoNLL files to text files where each line is separated by a new sentence. This tool allows you to easily import the resulting raw text file into Label Studio or other annotation platforms.
+Convert your CoNLL files to text files where each line is separated by a new sentence. This tool allows you to easily import the resulting raw text file into Label Studio or other annotation platforms. Please check the samples folder for learning about the supported CoNLL format.
 
 ## Features
 
